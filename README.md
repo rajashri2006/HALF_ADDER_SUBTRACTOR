@@ -78,3 +78,4 @@ Developed by:RAJASHRI I RegisterNumber:24900207*/
 ![ex3 code](https://github.com/user-attachments/assets/c1d9529f-e0f3-4aae-a7cf-37993dc5dc0a)
 
 **Result:**
+Therefore the given Half-Adder-and-Half Subtractor-circuit is executed successfully
